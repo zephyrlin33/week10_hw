@@ -1,0 +1,25 @@
+{
+    "top_5_countries_by_boxes": [
+        {
+            "Country": "Australia",
+            "total_boxes": 32647
+        },
+        {
+            "Country": "Canada",
+            "total_boxes": 31221
+        },
+        {
+            "Country": "UK",
+            "total_boxes": 30265
+        },
+        {
+            "Country": "India",
+            "total_boxes": 29470
+        },
+        {
+            "Country": "USA",
+            "total_boxes": 26824
+        }
+    ],
+    "total_boxes_all_countries": 177007
+}

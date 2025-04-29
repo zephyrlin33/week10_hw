@@ -1,0 +1,78 @@
+{
+    "n_rows": 1094,
+    "n_columns": 6,
+    "columns": {
+        "Sales Person": {
+            "class": "object",
+            "n_missing": 0,
+            "n_unique": 25,
+            "example_values": [
+                "Jehu Rudeforth",
+                "Van Tuxwell",
+                "Gigi Bohling",
+                "Jan Morforth",
+                "Oby Sorrel"
+            ]
+        },
+        "Country": {
+            "class": "object",
+            "n_missing": 0,
+            "n_unique": 6,
+            "example_values": [
+                "UK",
+                "India",
+                "Australia",
+                "New Zealand",
+                "USA"
+            ]
+        },
+        "Product": {
+            "class": "object",
+            "n_missing": 0,
+            "n_unique": 22,
+            "example_values": [
+                "Mint Chip Choco",
+                "85% Dark Bars",
+                "Peanut Butter Cubes",
+                "Smooth Sliky Salty",
+                "99% Dark & Pure"
+            ]
+        },
+        "Date": {
+            "class": "datetime64[ns]",
+            "n_missing": 0,
+            "n_unique": 168,
+            "example_values": [
+                1641254400000000000,
+                1659312000000000000,
+                1657152000000000000,
+                1651017600000000000,
+                1645660800000000000
+            ]
+        },
+        "Amount": {
+            "class": "float64",
+            "n_missing": 0,
+            "n_unique": 827,
+            "example_values": [
+                5320.0,
+                7896.0,
+                4501.0,
+                12726.0,
+                13685.0
+            ]
+        },
+        "Boxes Shipped": {
+            "class": "int64",
+            "n_missing": 0,
+            "n_unique": 385,
+            "example_values": [
+                180,
+                94,
+                91,
+                342,
+                184
+            ]
+        }
+    }
+}

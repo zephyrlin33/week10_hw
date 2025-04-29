@@ -1,0 +1,122 @@
+[
+  {
+    "Country": "Australia",
+    "Product": "50% Dark Bites",
+    "total_boxes": 3182,
+    "prop": 0.0975
+  },
+  {
+    "Country": "Australia",
+    "Product": "Eclairs",
+    "total_boxes": 1331,
+    "prop": 0.0408
+  },
+  {
+    "Country": "Australia",
+    "Product": "Smooth Sliky Salty",
+    "total_boxes": 1326,
+    "prop": 0.0406
+  },
+  {
+    "Country": "Australia",
+    "Product": "Spicy Special Slims",
+    "total_boxes": 2050,
+    "prop": 0.0628
+  },
+  {
+    "Country": "Canada",
+    "Product": "50% Dark Bites",
+    "total_boxes": 686,
+    "prop": 0.022
+  },
+  {
+    "Country": "Canada",
+    "Product": "Eclairs",
+    "total_boxes": 2101,
+    "prop": 0.0673
+  },
+  {
+    "Country": "Canada",
+    "Product": "Smooth Sliky Salty",
+    "total_boxes": 2271,
+    "prop": 0.0727
+  },
+  {
+    "Country": "Canada",
+    "Product": "Spicy Special Slims",
+    "total_boxes": 1659,
+    "prop": 0.0531
+  },
+  {
+    "Country": "India",
+    "Product": "50% Dark Bites",
+    "total_boxes": 1237,
+    "prop": 0.042
+  },
+  {
+    "Country": "India",
+    "Product": "Eclairs",
+    "total_boxes": 1985,
+    "prop": 0.0674
+  },
+  {
+    "Country": "India",
+    "Product": "Smooth Sliky Salty",
+    "total_boxes": 722,
+    "prop": 0.0245
+  },
+  {
+    "Country": "India",
+    "Product": "Spicy Special Slims",
+    "total_boxes": 2037,
+    "prop": 0.0691
+  },
+  {
+    "Country": "UK",
+    "Product": "50% Dark Bites",
+    "total_boxes": 1943,
+    "prop": 0.0642
+  },
+  {
+    "Country": "UK",
+    "Product": "Eclairs",
+    "total_boxes": 1273,
+    "prop": 0.0421
+  },
+  {
+    "Country": "UK",
+    "Product": "Smooth Sliky Salty",
+    "total_boxes": 1865,
+    "prop": 0.0616
+  },
+  {
+    "Country": "UK",
+    "Product": "Spicy Special Slims",
+    "total_boxes": 685,
+    "prop": 0.0226
+  },
+  {
+    "Country": "USA",
+    "Product": "50% Dark Bites",
+    "total_boxes": 1805,
+    "prop": 0.0673
+  },
+  {
+    "Country": "USA",
+    "Product": "Eclairs",
+    "total_boxes": 1177,
+    "prop": 0.0439
+  },
+  {
+    "Country": "USA",
+    "Product": "Smooth Sliky Salty",
+    "total_boxes": 1320,
+    "prop": 0.0492
+  },
+  {
+    "Country": "USA",
+    "Product": "Spicy Special Slims",
+    "total_boxes": 1385,
+    "prop": 0.0516
+  }
+]

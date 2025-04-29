@@ -1,0 +1,662 @@
+[
+    {
+        "Country": "Australia",
+        "Product": "50% Dark Bites",
+        "boxes": 3182,
+        "proportion": 0.0974668422825987
+    },
+    {
+        "Country": "Australia",
+        "Product": "70% Dark Bites",
+        "boxes": 2103,
+        "proportion": 0.06441633228167978
+    },
+    {
+        "Country": "Australia",
+        "Product": "85% Dark Bars",
+        "boxes": 1200,
+        "proportion": 0.03675682298526664
+    },
+    {
+        "Country": "Australia",
+        "Product": "99% Dark & Pure",
+        "boxes": 1350,
+        "proportion": 0.04135142585842497
+    },
+    {
+        "Country": "Australia",
+        "Product": "After Nines",
+        "boxes": 912,
+        "proportion": 0.027935185468802647
+    },
+    {
+        "Country": "Australia",
+        "Product": "Almond Choco",
+        "boxes": 2174,
+        "proportion": 0.06659111097497473
+    },
+    {
+        "Country": "Australia",
+        "Product": "Baker's Choco Chips",
+        "boxes": 1257,
+        "proportion": 0.03850277207706681
+    },
+    {
+        "Country": "Australia",
+        "Product": "Caramel Stuffed Bars",
+        "boxes": 594,
+        "proportion": 0.018194627377706985
+    },
+    {
+        "Country": "Australia",
+        "Product": "Choco Coated Almonds",
+        "boxes": 718,
+        "proportion": 0.021992832419517872
+    },
+    {
+        "Country": "Australia",
+        "Product": "Drinking Coco",
+        "boxes": 1797,
+        "proportion": 0.05504334242043679
+    },
+    {
+        "Country": "Australia",
+        "Product": "Eclairs",
+        "boxes": 1331,
+        "proportion": 0.040769442827824916
+    },
+    {
+        "Country": "Australia",
+        "Product": "Fruit & Nut Bars",
+        "boxes": 1000,
+        "proportion": 0.030630685821055534
+    },
+    {
+        "Country": "Australia",
+        "Product": "Manuka Honey Choco",
+        "boxes": 1439,
+        "proportion": 0.044077556896498914
+    },
+    {
+        "Country": "Australia",
+        "Product": "Milk Bars",
+        "boxes": 1821,
+        "proportion": 0.055778478880142125
+    },
+    {
+        "Country": "Australia",
+        "Product": "Mint Chip Choco",
+        "boxes": 1079,
+        "proportion": 0.03305051000091892
+    },
+    {
+        "Country": "Australia",
+        "Product": "Orange Choco",
+        "boxes": 1733,
+        "proportion": 0.05308297852788924
+    },
+    {
+        "Country": "Australia",
+        "Product": "Organic Choco Syrup",
+        "boxes": 1693,
+        "proportion": 0.05185775109504702
+    },
+    {
+        "Country": "Australia",
+        "Product": "Peanut Butter Cubes",
+        "boxes": 1087,
+        "proportion": 0.03329555548748737
+    },
+    {
+        "Country": "Australia",
+        "Product": "Raspberry Choco",
+        "boxes": 1291,
+        "proportion": 0.03954421539498269
+    },
+    {
+        "Country": "Australia",
+        "Product": "Smooth Sliky Salty",
+        "boxes": 1326,
+        "proportion": 0.04061628939871964
+    },
+    {
+        "Country": "Australia",
+        "Product": "Spicy Special Slims",
+        "boxes": 2050,
+        "proportion": 0.06279290593316385
+    },
+    {
+        "Country": "Australia",
+        "Product": "White Choc",
+        "boxes": 1510,
+        "proportion": 0.04625233558979386
+    },
+    {
+        "Country": "Canada",
+        "Product": "50% Dark Bites",
+        "boxes": 686,
+        "proportion": 0.021972390378271034
+    },
+    {
+        "Country": "Canada",
+        "Product": "70% Dark Bites",
+        "boxes": 1578,
+        "proportion": 0.05054290381474008
+    },
+    {
+        "Country": "Canada",
+        "Product": "85% Dark Bars",
+        "boxes": 950,
+        "proportion": 0.0304282374043112
+    },
+    {
+        "Country": "Canada",
+        "Product": "99% Dark & Pure",
+        "boxes": 1427,
+        "proportion": 0.04570641555363377
+    },
+    {
+        "Country": "Canada",
+        "Product": "After Nines",
+        "boxes": 1350,
+        "proportion": 0.04324012683770539
+    },
+    {
+        "Country": "Canada",
+        "Product": "Almond Choco",
+        "boxes": 556,
+        "proportion": 0.017808526312417923
+    },
+    {
+        "Country": "Canada",
+        "Product": "Baker's Choco Chips",
+        "boxes": 985,
+        "proportion": 0.03154927772973319
+    },
+    {
+        "Country": "Canada",
+        "Product": "Caramel Stuffed Bars",
+        "boxes": 2020,
+        "proportion": 0.06470004163864065
+    },
+    {
+        "Country": "Canada",
+        "Product": "Choco Coated Almonds",
+        "boxes": 2452,
+        "proportion": 0.07853688222670638
+    },
+    {
+        "Country": "Canada",
+        "Product": "Drinking Coco",
+        "boxes": 1980,
+        "proportion": 0.06341885269530124
+    },
+    {
+        "Country": "Canada",
+        "Product": "Eclairs",
+        "boxes": 2101,
+        "proportion": 0.06729444924890299
+    },
+    {
+        "Country": "Canada",
+        "Product": "Fruit & Nut Bars",
+        "boxes": 1569,
+        "proportion": 0.050254636302488706
+    },
+    {
+        "Country": "Canada",
+        "Product": "Manuka Honey Choco",
+        "boxes": 1523,
+        "proportion": 0.04878126901764838
+    },
+    {
+        "Country": "Canada",
+        "Product": "Milk Bars",
+        "boxes": 829,
+        "proportion": 0.02655264085070946
+    },
+    {
+        "Country": "Canada",
+        "Product": "Mint Chip Choco",
+        "boxes": 1088,
+        "proportion": 0.0348483392588322
+    },
+    {
+        "Country": "Canada",
+        "Product": "Orange Choco",
+        "boxes": 1719,
+        "proportion": 0.05505909484001153
+    },
+    {
+        "Country": "Canada",
+        "Product": "Organic Choco Syrup",
+        "boxes": 1314,
+        "proportion": 0.042087056788699916
+    },
+    {
+        "Country": "Canada",
+        "Product": "Peanut Butter Cubes",
+        "boxes": 1492,
+        "proportion": 0.04778834758656033
+    },
+    {
+        "Country": "Canada",
+        "Product": "Raspberry Choco",
+        "boxes": 971,
+        "proportion": 0.031100861599564395
+    },
+    {
+        "Country": "Canada",
+        "Product": "Smooth Sliky Salty",
+        "boxes": 2271,
+        "proportion": 0.07273950225809551
+    },
+    {
+        "Country": "Canada",
+        "Product": "Spicy Special Slims",
+        "boxes": 1659,
+        "proportion": 0.0531373114250024
+    },
+    {
+        "Country": "Canada",
+        "Product": "White Choc",
+        "boxes": 701,
+        "proportion": 0.022452836232023318
+    },
+    {
+        "Country": "India",
+        "Product": "50% Dark Bites",
+        "boxes": 1237,
+        "proportion": 0.04197488971835765
+    },
+    {
+        "Country": "India",
+        "Product": "70% Dark Bites",
+        "boxes": 1511,
+        "proportion": 0.051272480488632505
+    },
+    {
+        "Country": "India",
+        "Product": "85% Dark Bars",
+        "boxes": 1584,
+        "proportion": 0.053749575839837124
+    },
+    {
+        "Country": "India",
+        "Product": "99% Dark & Pure",
+        "boxes": 1455,
+        "proportion": 0.0493722429589413
+    },
+    {
+        "Country": "India",
+        "Product": "After Nines",
+        "boxes": 1874,
+        "proportion": 0.06359009161859518
+    },
+    {
+        "Country": "India",
+        "Product": "Almond Choco",
+        "boxes": 1296,
+        "proportion": 0.04397692568713946
+    },
+    {
+        "Country": "India",
+        "Product": "Baker's Choco Chips",
+        "boxes": 1265,
+        "proportion": 0.042925008483203256
+    },
+    {
+        "Country": "India",
+        "Product": "Caramel Stuffed Bars",
+        "boxes": 1635,
+        "proportion": 0.055480149304377335
+    },
+    {
+        "Country": "India",
+        "Product": "Choco Coated Almonds",
+        "boxes": 1328,
+        "proportion": 0.04506277570410587
+    },
+    {
+        "Country": "India",
+        "Product": "Drinking Coco",
+        "boxes": 1101,
+        "proportion": 0.037360027146250425
+    },
+    {
+        "Country": "India",
+        "Product": "Eclairs",
+        "boxes": 1985,
+        "proportion": 0.0673566338649474
+    },
+    {
+        "Country": "India",
+        "Product": "Fruit & Nut Bars",
+        "boxes": 953,
+        "proportion": 0.032337970817780795
+    },
+    {
+        "Country": "India",
+        "Product": "Manuka Honey Choco",
+        "boxes": 991,
+        "proportion": 0.033627417712928404
+    },
+    {
+        "Country": "India",
+        "Product": "Milk Bars",
+        "boxes": 1069,
+        "proportion": 0.03627417712928402
+    },
+    {
+        "Country": "India",
+        "Product": "Mint Chip Choco",
+        "boxes": 1516,
+        "proportion": 0.05144214455378351
+    },
+    {
+        "Country": "India",
+        "Product": "Orange Choco",
+        "boxes": 1152,
+        "proportion": 0.039090600610790636
+    },
+    {
+        "Country": "India",
+        "Product": "Organic Choco Syrup",
+        "boxes": 897,
+        "proportion": 0.03043773328808958
+    },
+    {
+        "Country": "India",
+        "Product": "Peanut Butter Cubes",
+        "boxes": 1445,
+        "proportion": 0.04903291482863929
+    },
+    {
+        "Country": "India",
+        "Product": "Raspberry Choco",
+        "boxes": 788,
+        "proportion": 0.026739056667797762
+    },
+    {
+        "Country": "India",
+        "Product": "Smooth Sliky Salty",
+        "boxes": 722,
+        "proportion": 0.024499491007804547
+    },
+    {
+        "Country": "India",
+        "Product": "Spicy Special Slims",
+        "boxes": 2037,
+        "proportion": 0.06912114014251781
+    },
+    {
+        "Country": "India",
+        "Product": "White Choc",
+        "boxes": 1629,
+        "proportion": 0.055276552426196134
+    },
+    {
+        "Country": "UK",
+        "Product": "50% Dark Bites",
+        "boxes": 1943,
+        "proportion": 0.06419957046092846
+    },
+    {
+        "Country": "UK",
+        "Product": "70% Dark Bites",
+        "boxes": 1259,
+        "proportion": 0.041599207004791014
+    },
+    {
+        "Country": "UK",
+        "Product": "85% Dark Bars",
+        "boxes": 704,
+        "proportion": 0.023261192796960185
+    },
+    {
+        "Country": "UK",
+        "Product": "99% Dark & Pure",
+        "boxes": 1396,
+        "proportion": 0.04612588798942673
+    },
+    {
+        "Country": "UK",
+        "Product": "After Nines",
+        "boxes": 999,
+        "proportion": 0.03300842557409549
+    },
+    {
+        "Country": "UK",
+        "Product": "Almond Choco",
+        "boxes": 990,
+        "proportion": 0.03271105237072526
+    },
+    {
+        "Country": "UK",
+        "Product": "Baker's Choco Chips",
+        "boxes": 2081,
+        "proportion": 0.06875929291260532
+    },
+    {
+        "Country": "UK",
+        "Product": "Caramel Stuffed Bars",
+        "boxes": 2184,
+        "proportion": 0.07216256401784239
+    },
+    {
+        "Country": "UK",
+        "Product": "Choco Coated Almonds",
+        "boxes": 1178,
+        "proportion": 0.03892284817445894
+    },
+    {
+        "Country": "UK",
+        "Product": "Drinking Coco",
+        "boxes": 1531,
+        "proportion": 0.05058648603998017
+    },
+    {
+        "Country": "UK",
+        "Product": "Eclairs",
+        "boxes": 1273,
+        "proportion": 0.042061787543366924
+    },
+    {
+        "Country": "UK",
+        "Product": "Fruit & Nut Bars",
+        "boxes": 1122,
+        "proportion": 0.037072526020155296
+    },
+    {
+        "Country": "UK",
+        "Product": "Manuka Honey Choco",
+        "boxes": 1202,
+        "proportion": 0.03971584338344623
+    },
+    {
+        "Country": "UK",
+        "Product": "Milk Bars",
+        "boxes": 2251,
+        "proportion": 0.07437634230959854
+    },
+    {
+        "Country": "UK",
+        "Product": "Mint Chip Choco",
+        "boxes": 1240,
+        "proportion": 0.040971419131009414
+    },
+    {
+        "Country": "UK",
+        "Product": "Orange Choco",
+        "boxes": 698,
+        "proportion": 0.023062943994713366
+    },
+    {
+        "Country": "UK",
+        "Product": "Organic Choco Syrup",
+        "boxes": 1120,
+        "proportion": 0.037006443086073024
+    },
+    {
+        "Country": "UK",
+        "Product": "Peanut Butter Cubes",
+        "boxes": 1265,
+        "proportion": 0.04179745580703783
+    },
+    {
+        "Country": "UK",
+        "Product": "Raspberry Choco",
+        "boxes": 1350,
+        "proportion": 0.044605980505534444
+    },
+    {
+        "Country": "UK",
+        "Product": "Smooth Sliky Salty",
+        "boxes": 1865,
+        "proportion": 0.06162233603171981
+    },
+    {
+        "Country": "UK",
+        "Product": "Spicy Special Slims",
+        "boxes": 685,
+        "proportion": 0.02263340492317859
+    },
+    {
+        "Country": "UK",
+        "Product": "White Choc",
+        "boxes": 1929,
+        "proportion": 0.06373698992235255
+    },
+    {
+        "Country": "USA",
+        "Product": "50% Dark Bites",
+        "boxes": 1805,
+        "proportion": 0.06729048613182224
+    },
+    {
+        "Country": "USA",
+        "Product": "70% Dark Bites",
+        "boxes": 631,
+        "proportion": 0.02352371011034894
+    },
+    {
+        "Country": "USA",
+        "Product": "85% Dark Bars",
+        "boxes": 1605,
+        "proportion": 0.059834476588130035
+    },
+    {
+        "Country": "USA",
+        "Product": "99% Dark & Pure",
+        "boxes": 1792,
+        "proportion": 0.06680584551148225
+    },
+    {
+        "Country": "USA",
+        "Product": "After Nines",
+        "boxes": 1806,
+        "proportion": 0.06732776617954071
+    },
+    {
+        "Country": "USA",
+        "Product": "Almond Choco",
+        "boxes": 1095,
+        "proportion": 0.040821652251714885
+    },
+    {
+        "Country": "USA",
+        "Product": "Baker's Choco Chips",
+        "boxes": 598,
+        "proportion": 0.022293468535639727
+    },
+    {
+        "Country": "USA",
+        "Product": "Caramel Stuffed Bars",
+        "boxes": 1028,
+        "proportion": 0.03832388905457799
+    },
+    {
+        "Country": "USA",
+        "Product": "Choco Coated Almonds",
+        "boxes": 333,
+        "proportion": 0.01241425589024754
+    },
+    {
+        "Country": "USA",
+        "Product": "Drinking Coco",
+        "boxes": 1038,
+        "proportion": 0.0386966895317626
+    },
+    {
+        "Country": "USA",
+        "Product": "Eclairs",
+        "boxes": 1177,
+        "proportion": 0.04387861616462869
+    },
+    {
+        "Country": "USA",
+        "Product": "Fruit & Nut Bars",
+        "boxes": 2061,
+        "proportion": 0.07683417834774829
+    },
+    {
+        "Country": "USA",
+        "Product": "Manuka Honey Choco",
+        "boxes": 1150,
+        "proportion": 0.04287205487623024
+    },
+    {
+        "Country": "USA",
+        "Product": "Milk Bars",
+        "boxes": 1025,
+        "proportion": 0.03821204891142261
+    },
+    {
+        "Country": "USA",
+        "Product": "Mint Chip Choco",
+        "boxes": 747,
+        "proportion": 0.027848195645690427
+    },
+    {
+        "Country": "USA",
+        "Product": "Orange Choco",
+        "boxes": 1545,
+        "proportion": 0.05759767372502237
+    },
+    {
+        "Country": "USA",
+        "Product": "Organic Choco Syrup",
+        "boxes": 773,
+        "proportion": 0.028817476886370416
+    },
+    {
+        "Country": "USA",
+        "Product": "Peanut Butter Cubes",
+        "boxes": 1209,
+        "proportion": 0.045071577691619444
+    },
+    {
+        "Country": "USA",
+        "Product": "Raspberry Choco",
+        "boxes": 1497,
+        "proportion": 0.05580823143453623
+    },
+    {
+        "Country": "USA",
+        "Product": "Smooth Sliky Salty",
+        "boxes": 1320,
+        "proportion": 0.049209662988368624
+    },
+    {
+        "Country": "USA",
+        "Product": "Spicy Special Slims",
+        "boxes": 1385,
+        "proportion": 0.0516328660900686
+    },
+    {
+        "Country": "USA",
+        "Product": "White Choc",
+        "boxes": 1204,
+        "proportion": 0.04488517745302714
+    }
+]
